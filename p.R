@@ -2,5 +2,7 @@
 
 
 x <- 10
-getwd(
-)
+getwd()
+
+##using maths
+
